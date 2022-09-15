@@ -17,6 +17,10 @@ a {
 .counter-wrapper {
 	padding: 10px 0px;
 	background-color: rgb(67, 71, 112);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
 
 .counter {
